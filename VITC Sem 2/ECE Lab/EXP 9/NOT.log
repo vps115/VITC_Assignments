@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Vidhi Shah\Desktop\VITC Sem 2\ECE Lab\EXP 9\NOT.asc
+
+WARNING: Less than two connections to node N002.  This node is used by A§NOT.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Jun 01 09:44:31 2022
+Total elapsed time: 0.054 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2086
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 50 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

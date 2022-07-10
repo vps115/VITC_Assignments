@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Vidhi Shah\Desktop\VITC Sem 2\ECE Lab\EXP 3\Exp3_Part3.asc
+
+.OP point found by inspection.
+
+Date: Tue Jun 07 06:54:02 2022
+Total elapsed time: 0.206 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1408
+traniter = 1408
+tranpoints = 485
+accept = 333
+rejected = 152
+matrix size = 9
+fillins = 8
+solver = Normal
+Matrix Compiler1: 884 bytes object code size  0.8/0.5/[0.4]
+Matrix Compiler2: 831 bytes object code size  0.4/0.6/[0.4]
+

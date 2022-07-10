@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Vidhi Shah\Desktop\VITC Sem 2\ECE Lab\EXP 9\XOR_XNOR.asc
+
+WARNING: Less than two connections to node N002.  This node is used by A§XNOR.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Jun 01 09:52:43 2022
+Total elapsed time: 0.092 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2085
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 96 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
